@@ -1,3 +1,5 @@
+cd ..
+
 device=0
 
 python main.py --recon zinb --name Mouse_ES --HVG 0.2 --n_clusters 4 --lr 0.001 --device $device
