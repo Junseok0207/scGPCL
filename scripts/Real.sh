@@ -9,6 +9,8 @@ python main.py --recon zinb --name Worm_neuron_cells --HVG 0.2 --n_clusters 10 -
 python main.py --recon zinb --name 10X_PBMC --HVG 0.2 --n_clusters 8 --lr 0.001 --device $device
 python main.py --recon zinb --name Human_kidney_cells --HVG 0.2 --n_clusters 11 --lr 0.0001 --device $device
 python main.py --recon zinb --name Shekhar --HVG 1.0 --n_clusters 19 --lr 0.001 --device $device
+python main.py --recon zinb --name Camp --HVG 0.2 --n_clusters 7 --lr 0.0001 --device $device
+python main.py --recon zinb --name Baron --HVG 0.2 --n_clusters 14 --lr 0.0001 --device $device
 
 # MSE-based reconstruction loss
 python main.py --recon mse --name Mouse_ES --HVG 0.2 --n_clusters 4 --lr 0.001 --device $device
@@ -18,3 +20,5 @@ python main.py --recon mse --name Worm_neuron_cells --HVG 0.2 --n_clusters 10 --
 python main.py --recon mse --name 10X_PBMC --HVG 0.2 --n_clusters 8 --lr 0.001 --device $device
 python main.py --recon mse --name Human_kidney_cells --HVG 0.2 --n_clusters 11 --lr 0.0001 --device $device
 python main.py --recon mse --name Shekhar --HVG 1.0 --n_clusters 19 --lr 0.001 --device $device
+python main.py --recon mse --name Camp --HVG 0.2 --n_clusters 7 --lr 0.0001 --device $device
+python main.py --recon mse --name Baron --HVG 0.2 --n_clusters 14 --lr 0.0001 --device $device
