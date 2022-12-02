@@ -10,7 +10,7 @@ def parse_args():
     parser.add_argument('--name', type=str, default='Zeisel', help='Worm_neuron_cells, 10X_PBMC, Kolodziejczyk, Chung, Zeisel, Klein, 3000_3000_0.32')
     parser.add_argument('--n_clusters', type=int, default=9)
     parser.add_argument('--seed', type=int, default=0)
-    parser.add_argument('--device', type=int, default=2)
+    parser.add_argument('--device', type=int, default=0)
 
     # Preprocessing
     parser.add_argument('--HVG', type=float, default=0.2)
