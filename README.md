@@ -7,6 +7,9 @@
     
 The official source code for "Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning".
 
+**Links to Supplementary Materials** : [Supplementary Materials](https://www.dropbox.com/s/l0x7fonrt92tf64/Supplementary%20Materials.pdf?dl=0)
+
+
 ## Overview
 
 Single-cell RNA sequencing (scRNA-seq) enables researchers to study cellular heterogeneity by measuring transcriptome-wide gene expression at single cell level. To this
