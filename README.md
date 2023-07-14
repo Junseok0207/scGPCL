@@ -1,13 +1,13 @@
 # Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning
 
 <p align="center">
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white"/>
   <a href="https://pytorch.org/" alt="PyTorch">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
-    
-The official source code for "Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning".
+  <img src ="https://img.shields.io/badge/-Bioinformatics-green"/>
+  <img src="https://img.shields.io/badge/-ICML_WCB_2023-blue" />
+  
+The official source code for [**Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning**](https://academic.oup.com/bioinformatics/article/39/6/btad342/7180270), accepted at Bioinformatics (Volume 39, June 2023) and 2023 ICML workshop on Computational Biology.
 
-**Links to Supplementary Materials** : [Supplementary Materials](https://www.dropbox.com/s/l0x7fonrt92tf64/Supplementary%20Materials.pdf?dl=0)
 
 
 ## Overview
